@@ -1,0 +1,6 @@
+customhost = "empdatabase.cfemb1ijgqwd.ap-south-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "admin1234"
+customdb = "employee"
+custombucket = "employeebuckets"
+customregion = "ap-south-1a"
